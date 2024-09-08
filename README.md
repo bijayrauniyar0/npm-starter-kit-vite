@@ -12,8 +12,7 @@ Welcome to my NPM Package starter kit! 🚀 This kit is designed to help you ski
 ```
 2. **Install dependencies:**
 ```bash
-Copy code
-yarn install
+    npm install
 
 ```
 
