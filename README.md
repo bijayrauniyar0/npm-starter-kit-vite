@@ -7,8 +7,8 @@ Welcome to my NPM Package starter kit! 🚀 This kit is designed to help you ski
 1. **Clone the repository:**
 
 ```bash
-   git clone https://github.com/yourusername/react-typescript-starter-kit.git
-   cd react-typescript-starter-kit
+   git clone https://github.com/bijayrauniyar0/npm-starter-kit-vite.git
+   cd npm-starter-kit-vite
 ```
 2. **Install dependencies:**
 ```bash
