@@ -10,6 +10,7 @@ Welcome to my NPM Package starter kit! 🚀 This kit is designed to help you ski
    git clone https://github.com/bijayrauniyar0/npm-starter-kit-vite.git
    cd npm-starter-kit-vite
 ```
+
 2. **Install dependencies:**
 ```bash
     npm install
